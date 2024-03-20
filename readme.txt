@@ -1,0 +1,2 @@
+[5-2.blend][5-3.blend][6.blend][tobira.blend]는 Poly Haven의 [royal_esplanade_4k.hdr](https://polyhaven.com/a/royal_esplanade)를 사용했습니다.
+분홍색으로 표시되는 부분을 제외하고 제대로 표시하려면, 이 HDR 파일을 다운 받은 뒤, 같은 디렉터리에 배치한 뒤 열어주세요.
